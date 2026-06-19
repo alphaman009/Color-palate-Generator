@@ -1,0 +1,1 @@
+<h1> A Color palate Generator</h1>
